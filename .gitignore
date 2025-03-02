@@ -1,0 +1,10 @@
+﻿todo_app/Files/todos.txt
+todo_app/__pycache__
+todo_app/dist
+*.txt
+*.spec
+*.iss
+*.exe
+todo_app/build
+todo_app/todo_icon.ico
+todo_app/todo_icon.webp
